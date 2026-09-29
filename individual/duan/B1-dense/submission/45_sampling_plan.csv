@@ -1,0 +1,10 @@
+camera_id,slice_type,frames,risk,rationale
+front,normal,25,medium,Kiểm tra phương tiện thông thường và vật thể tại center zone
+front,hard,25,high,Ưu tiên cảnh đông xe và Bike nhỏ dễ bỏ sót hoặc tạo box thừa
+rear,normal,25,medium,Kiểm tra phương tiện phía sau trong điều kiện ít che khuất
+rear,hard,25,high,Ưu tiên vật thể nhỏ và trường hợp bị che khuất hoặc chồng lấp
+left,normal,25,medium,Kiểm tra phương tiện ở vùng mid và edge bên trái
+left,hard,25,high,Ưu tiên biến dạng fisheye và phương tiện bị cắt bởi mép trái
+right,normal,25,medium,Kiểm tra phương tiện ở vùng mid và edge bên phải
+right,hard,25,high,Ưu tiên biến dạng fisheye và phương tiện bị cắt bởi mép phải
+

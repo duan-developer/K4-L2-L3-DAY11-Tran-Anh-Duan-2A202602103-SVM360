@@ -1,0 +1,19 @@
+round: r1_craft
+slice: B1-dense
+sha256: 7b314732219c419861c9c2b57234278e86a2be5c6f8424aac9d077bfc695b97c
+code: 7B31-4732
+locked_at: 2026-09-29T17:52:33+07:00
+shapes: box=27, polygon=10
+prefill_kept: 1
+prefill_edited: 2
+new: 24
+history:
+  round: r1_craft
+  slice: B1-dense
+  sha256: 3ec0cb64728c9a55160e3fb47d4a06d70e4943d2f8a8ef9904a7c057cb70545d
+  code: 3EC0-CB64
+  locked_at: 2026-09-29T17:24:00+07:00
+  shapes: box=27, polygon=9
+  prefill_kept: 1
+  prefill_edited: 2
+  new: 24
